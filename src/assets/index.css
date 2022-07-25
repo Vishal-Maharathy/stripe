@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(86, 193, 255);
+    font-family: sans-serif;
+    text-align: center;
+}
+#checkout{
+    outline: none;
+    padding: 10px 20px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#checkout:active{
+    background-color: rgb(201, 190, 175);
+}
